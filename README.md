@@ -92,3 +92,9 @@ Bu proje, bir Genetik Algoritmanın tüm temel bileşenlerini modüler fonksiyon
 * `networkx`: Şehir ve rota ağını çizmek için.
 * `time`: Algoritmanın çalışma süresini ölçmek için.
 * `itertools`: Parametre optimizasyonunda kombinasyonları oluşturmak için.
+
+## Görseller
+![tsp70-parametre-ayarlama](https://github.com/user-attachments/assets/5653ce7c-0eb9-41a1-8223-4e98ecd22bf9)
+<img width="1792" alt="tsp70-en-iyi-parametre-sonuc" src="https://github.com/user-attachments/assets/f60767b7-83c4-4959-a7f8-253270116ea7" />
+![tsp100-parametre-ayarlama](https://github.com/user-attachments/assets/add1a935-a34a-4dce-b082-b45a70875275)
+<img width="1792" alt="tsp100-en-iyi-parametreler-sonuc" src="https://github.com/user-attachments/assets/cb4ec017-4400-4c05-a724-55417b1da587" />
